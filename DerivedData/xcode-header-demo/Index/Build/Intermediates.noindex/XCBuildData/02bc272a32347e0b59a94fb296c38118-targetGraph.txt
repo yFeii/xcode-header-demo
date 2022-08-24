@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+xcode-header-demo in xcode-header-demo, no dependencies
+xcode-header-demo in xcode-header-demo, no dependencies
